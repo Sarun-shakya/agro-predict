@@ -78,6 +78,15 @@ agro-predict/
 ├── requirements.txt
 └── README.md
 ```
+## 📸 Screenshots
+
+### 🧪 Input Parameters
+<img width="1168" height="785" alt="Screenshot 2026-11-14 155603" src="https://github.com/user-attachments/assets/915432c8-1ed6-44db-86ac-858b7bb3fa11" />
+
+
+### 🌱 Crop Recommendation
+<img width="1017" height="727" alt="Screenshot 2026-11-14 155613" src="https://github.com/user-attachments/assets/a64f2ce7-6b78-45a2-9322-11cc05cf7fdb" />
+
 
 ## 💻 Run Locally
 
